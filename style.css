@@ -1,0 +1,15 @@
+#header {
+  margin: auto;
+  color: white;
+
+  height: 3em;
+}
+.navbar {
+  background: midnightblue !important;
+  width: 71.3vw;
+  margin: auto;
+}
+
+.jumbotron {
+  margin-top: 3%;
+}
